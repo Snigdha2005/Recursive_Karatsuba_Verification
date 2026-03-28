@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1774700954" />
+    <testcase name="test_basic" classname="test_karatsuba" file="/home/snigdha2005/cocotb_tester/karatsuba_seq/test_karatsuba.py" lineno="29" time="0.010387659072875977" sim_time_ns="1680.0" ratio_time="161730.37526681816" />
+    <testcase name="test_random" classname="test_karatsuba" file="/home/snigdha2005/cocotb_tester/karatsuba_seq/test_karatsuba.py" lineno="66" time="35.78834009170532" sim_time_ns="4100050.0" ratio_time="114563.84927308407" />
+  </testsuite>
+</testsuites>
