@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1774858102" />
+    <testcase name="test_full_coverage" classname="test_karatsuba_func_rec_coverage" file="/home/snigdha2005/cocotb_tester/karatsuba/test_karatsuba_func_rec_coverage.py" lineno="81" time="0.5043928623199463" sim_time_ns="506000.001" ratio_time="1003186.2835502106" />
+    <testcase name="report_coverage" classname="test_karatsuba_func_rec_coverage" file="/home/snigdha2005/cocotb_tester/karatsuba/test_karatsuba_func_rec_coverage.py" lineno="193" time="0.0017025470733642578" sim_time_ns="0.0009999999892897904" ratio_time="0.5873552660801183" />
+  </testsuite>
+</testsuites>
